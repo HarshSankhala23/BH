@@ -13,3 +13,5 @@ sudo cp bh /usr/local/bin
 ```
 bh
 ```
+
+![image](https://github.com/user-attachments/assets/52dfe479-2959-4f6f-bbbb-6cf8eade44f3)
